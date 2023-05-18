@@ -1,0 +1,42 @@
+@charset "UTF-8";
+
+*{
+    margin: 0;
+    padding: 0;
+}
+@media screen and (min-width: 992px){
+    body{
+        background: linear-gradient(to bottom, #49a09d, #5f2c82);
+    }
+    section#login{
+        width: 80vw;
+        height: 50%;
+    }
+    section#login div#foto{
+        float: right;
+        width: 50%;
+        height: 100%;
+        background-position: left;
+        background-repeat: no-repeat;
+    }
+    section#login div#formulário{
+        float: left;
+        width: 50%;
+        height: 40%;
+    }
+    div#foto{
+        border-bottom-right-radius: 20px;
+        border-top-left-radius: 0px;
+    }
+    div h1{
+        text-align: center;
+        font-size: 28px;
+        padding-bottom:5px ;
+    }
+    div .botao-entrar [type=submit]{
+        width: 97.9%;
+     }
+    div#formulario > p{
+        margin: 15px 0px;
+    }
+}
