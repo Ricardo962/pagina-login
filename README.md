@@ -14,9 +14,9 @@ Tags: HTML CSS JavaScript
 Layoult
 <div align="center">
   <img src="https://github.com/Ricardo962/rocket-coffee/assets/114768556/d4ff7b8e-a5ef-4331-a5e1-07c94bd626ab">
-</div
+</div>
   
-# 🚀 Techs
+## 🚀 Techs
 - HTML
 - CSS
 - JavaScript
